@@ -7,7 +7,8 @@ Deliverable 1 - Overlaying tectonic plate data:
 
 ![](Resources/Deliverable_1.png)
 
-Deliverable 2 - Toggling datapoints for severe quakes, colored by severity (colors working, but differences between them are slight):
+Deliverable 2 - Toggling datapoints for severe quakes, colored by severity:
+* Note: Colors are working, but differences between them are minor
 
 ![](Resources/Deliverable_2.png)
 
