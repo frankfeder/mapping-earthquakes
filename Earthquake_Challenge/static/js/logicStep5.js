@@ -103,7 +103,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
       layer.bindPopup("Magnitude: " + feature.properties.mag + "<br>Location: " + feature.properties.place); 
     }
   }).addTo(earthquakes);
-  earthquakes.appTo(map);
+  earthquakes.addTo(map);
 });
 
 let legend = L.control({position: 'bottomright'});
